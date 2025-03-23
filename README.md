@@ -19,8 +19,5 @@ A **Flask-based web application** that predicts restaurant ratings based on vari
 - **Machine Learning** (Trained Model)
 - **HTML, CSS, JavaScript**
 - **Bootstrap 5** (Modern UI Design)
-- **Git & GitHub** (Version Control)
-- **Git Large File Storage (LFS)** (For large datasets)
-
 ---
 
